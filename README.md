@@ -6,5 +6,3 @@
 <P> Memposting screenshotnya di repository praktikum 3 di github    </P>
 <P> Mengupload hasil pengerjaannya ke forum tugas praktikum 3 ke e campus Pelita Bangsa  </P>
 
-
-
